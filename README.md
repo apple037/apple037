@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jasper</h1>
-<h3 align="center">A backend developer from Taiwan</h3>
+<h3 align="center">A backend and blockchain developer from Taiwan</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
