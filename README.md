@@ -11,11 +11,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Go               25 mins         ███████████▒░░░░░░░░░░░░░   45.30 %
-JavaScript       10 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.91 %
-Rust             9 mins          ████▒░░░░░░░░░░░░░░░░░░░░   16.81 %
-Java             3 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.61 %
-Markdown         2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.72 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
