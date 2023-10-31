@@ -3,6 +3,20 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<table>
+  <thead>
+    <tr>
+      <th scope="col">Type</th>
+      <th scope="col">information</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th scope="row">Email</th>
+      <td>apple037037@gmail.com</td>
+    </tr>
+  </tbody>
+</table>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
