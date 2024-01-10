@@ -25,7 +25,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Java              1 hr 58 mins    █████████████▓░░░░░░░░░░░   54.43 %
+XML               57 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.24 %
+Solidity          23 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.65 %
+GitIgnore file    5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.32 %
+Java Properties   4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.19 %
 ```
 
 <!--END_SECTION:waka-->
