@@ -25,7 +25,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Java              5 hrs 14 mins   ███████████████████▒░░░░░   76.70 %
+XML               1 hr 13 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.00 %
+YAML              12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.09 %
+JSON              5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.29 %
+TOML              2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 %
 ```
 
 <!--END_SECTION:waka-->
