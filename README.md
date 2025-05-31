@@ -27,11 +27,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Python           12 hrs 34 mins  █████████████████████████   99.66 %
-TypeScript       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
-Env File         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
-GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
-textmate         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+Python     9 hrs 38 mins   █████████████████████████   99.92 %
+Env File   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+textmate   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
 
 <!--END_SECTION:waka-->
