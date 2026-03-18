@@ -27,9 +27,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Bash         8 mins                ███████████████░░░░░░░░░░   59.70 %
-YAML         5 mins                ██████████░░░░░░░░░░░░░░░   39.60 %
-TypeScript   0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 %
+TypeScript   0 secs                █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
