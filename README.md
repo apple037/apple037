@@ -76,22 +76,26 @@ Backend and AI engineer with ~5 years of experience delivering backend systems, 
 
 ## Work Experience
 
-**Backend & AI Engineer** @ Mygram AI Technology Co., Ltd. *(Jul 2024 – Present)*
+**Backend & AI Engineer** @ Mygram AI Technology Co., Ltd. _(Jul 2024 – Mar 2026)_
+
 - Built backend services for AI-integrated social applications and digital persona features
 - Implemented API and data pipelines using Node.js, PostgreSQL, MongoDB, Firebase, and Redis
 - Integrated voice and short-video generation workflows with Python-based model pipelines
 
-**Senior Software & Blockchain Engineer** @ GASH POINT Co., Ltd. *(Oct 2023 – Jun 2024)*
+**Senior Software & Blockchain Engineer** @ GASH POINT Co., Ltd. _(Oct 2023 – Jun 2024)_
+
 - Designed and delivered an internal gateway supporting communication across multiple services
 - Enhanced member center capabilities including social login and unified account management
 - Developed item-to-blockchain workflows and supported smart contract integration
 
-**Java Backend & Blockchain Engineer** @ Wandatech Co., Ltd. *(Jul 2021 – Oct 2023)*
+**Java Backend & Blockchain Engineer** @ Wandatech Co., Ltd. _(Jul 2021 – Oct 2023)_
+
 - Developed backend modules for crypto and NFT marketplace functions
 - Implemented event-driven architecture with Kafka/RabbitMQ and Redis caching
 - Integrated AI chatbot capabilities for text and image generation
 
-**MIS Engineer** @ Vanguard International Semiconductor Corp. *(Oct 2019 – Apr 2021)*
+**MIS Engineer** @ Vanguard International Semiconductor Corp. _(Oct 2019 – Apr 2021)_
+
 - Delivered UiPath-based RPA scripts to automate administrative workflows
 
 ---
