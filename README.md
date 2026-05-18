@@ -122,8 +122,8 @@ Backend and AI engineer with ~5 years of experience delivering backend systems, 
 
 ```txt
 Other              2 hrs 24 mins         █████████▒░░░░░░░░░░░░░░░   37.27 %
-TypeScript         1 hr 50 mins          ███████░░░░░░░░░░░░░░░░░░   28.59 %
-Markdown           1 hr 10 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.32 %
+TypeScript         1 hr 50 mins          ███████░░░░░░░░░░░░░░░░░░   28.61 %
+Markdown           1 hr 10 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.30 %
 HTML               30 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   07.95 %
 SQL                11 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.08 %
 ```
