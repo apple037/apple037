@@ -121,10 +121,10 @@ Backend and AI engineer with ~5 years of experience delivering backend systems, 
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   1 hr 30 mins          █████████████████░░░░░░░░   68.06 %
-Markdown     17 mins               ███▒░░░░░░░░░░░░░░░░░░░░░   13.02 %
-Python       13 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   10.31 %
-Other        11 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   08.61 %
+TypeScript   44 mins               ███████████████▒░░░░░░░░░   61.82 %
+Markdown     15 mins               █████▒░░░░░░░░░░░░░░░░░░░   21.36 %
+Other        11 mins               ████░░░░░░░░░░░░░░░░░░░░░   15.90 %
+Bash         0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.92 %
 ```
 
 <!--END_SECTION:waka-->
